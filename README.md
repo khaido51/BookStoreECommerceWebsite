@@ -53,7 +53,7 @@ View Cart Page
 
 
 Checkout Page
-  + This page will again summarise order details again before they place their orders.
+  + This page will again summarise order details before they place their orders.
   + After place order, the receipt will be emailed to customer's email and order details will be saved to database.
 ![image](https://github.com/khaido51/BookStoreECommerceWebsite/assets/36833306/12326cf1-d481-4626-a163-160d08acf230)
 
